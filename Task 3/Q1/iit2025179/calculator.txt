@@ -1,0 +1,3 @@
+A calculator is a device which is used to perform arithmetic operations and solve equations. Calculators are used to simplify
+large mathematical equations for solving complex equations which are tougher to be done manually.
+

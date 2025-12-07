@@ -1,0 +1,2 @@
+A calculator is a device or software that performs mathematical calculations, ranging from basic arithmetic to complex functions like logarithms and trigonometry. It takes numbers as input, performs operations, and displays the result, often making calculations faster and more accurate than by hand.  
+
