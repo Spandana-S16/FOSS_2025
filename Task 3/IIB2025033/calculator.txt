@@ -1,0 +1,1 @@
+Calculator is a device used to perform arithmatic operations on two or more numbers.
